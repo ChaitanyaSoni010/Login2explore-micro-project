@@ -1,6 +1,6 @@
 # Login2explore-micro-project
 Student Enrollment From using JsonPowerDB
-Benefits of Using JsonPowerDB
+#Benefits of Using JsonPowerDB
 In the world of API craft, no area is more hotly discussed than design. From REST, gRPC, to GraphQL, there are many approaches to designing and standardizing web API interactions. Today we turn our focus to another approach, JSON API, a specification for building APIs detailed at JSONAPI.org.
 
 JSON API, described at JSONAPI.org, is great for making your JSON response formatting more consistent. With the goal being to increase productivity and efficiency, JSON API has been touted for its efficient caching features that can eliminate superfluous server requests.
